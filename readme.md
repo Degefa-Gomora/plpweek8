@@ -19,4 +19,6 @@ To set up this database, you will need a MySQL database server.
 
 Below is a visual representation of the database structure, showing the entities and their relationships.
 
-[screencapture-chatgpt-c-689c5a80-a35c-8331-9fef-cb576b7c4fcd-2025-08-13-12_32_22.pdf](https://github.com/user-attachments/files/21751238/screencapture-chatgpt-c-689c5a80-a35c-8331-9fef-cb576b7c4fcd-2025-08-13-12_32_22.pdf)
+
+
+[screen shot of digram.pdf](https://github.com/user-attachments/files/21751456/screen.shot.of.digram.pdf)
