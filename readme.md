@@ -16,4 +16,7 @@ To set up this database, you will need a MySQL database server.
 3.  **Ready to Use:** The database will be ready to use immediately after the script completes its execution.
 
 ### ERD (Entity-Relationship Diagram)
+
 Below is a visual representation of the database structure, showing the entities and their relationships.
+
+[screencapture-chatgpt-c-689c5a80-a35c-8331-9fef-cb576b7c4fcd-2025-08-13-12_32_22.pdf](https://github.com/user-attachments/files/21751238/screencapture-chatgpt-c-689c5a80-a35c-8331-9fef-cb576b7c4fcd-2025-08-13-12_32_22.pdf)
